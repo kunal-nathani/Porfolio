@@ -1,9 +1,5 @@
 # My Portfolio
 
-#### Screenshot
-
-![Screenshot](Screenshot.png)
-
 
 #### User Stories
 
@@ -22,6 +18,4 @@ These are the requirements for this project. They are all fullfilled.
 11. The navbar should always be at the top of the viewport.
 
 
----
 
-[Yago Estévez](https://twitter.com/yagoestevez)
